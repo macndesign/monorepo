@@ -1,6 +1,7 @@
 {
   "name": "input",
   "version": "1.0.0",
+  "description": "",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
