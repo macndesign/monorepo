@@ -1,7 +1,7 @@
 {
-  "name": "input",
+  "name": "@macndesign/monorepo-input",
   "version": "1.0.1",
-  "description": "",
+  "description": "input of monorepo",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
