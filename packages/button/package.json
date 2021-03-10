@@ -7,7 +7,8 @@
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
-    "styled-components": "latest"
+    "styled-components": "latest",
+    "theme": "^1.0.0"
   },
   "peerDependencies": {
     "react": "^16.0.0",

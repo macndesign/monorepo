@@ -1,0 +1,30 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "description": "theme of design system",
+  "keywords": [
+    "theme"
+  ],
+  "author": "ia-mario-chaves <mario.chaves@inflow-analytics.com>",
+  "homepage": "https://github.com/macndesign/monorepo#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macndesign/monorepo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/macndesign/monorepo/issues"
+  }
+}
