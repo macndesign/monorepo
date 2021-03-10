@@ -1,5 +1,5 @@
 {
-  "name": "theme",
+  "name": "@macndesign/monorepo-theme",
   "version": "1.1.0",
   "description": "theme of design system",
   "keywords": [
@@ -19,7 +19,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macndesign/monorepo.git"
+    "url": "ssh://git@github.com/macndesign/monorepo.git",
+    "directory": "packages/theme"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

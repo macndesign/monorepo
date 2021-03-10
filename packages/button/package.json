@@ -8,7 +8,7 @@
     "react": "latest",
     "react-dom": "latest",
     "styled-components": "latest",
-    "theme": "^1.1.0"
+    "@macndesign/monorepo-theme": "^1.1.0"
   },
   "peerDependencies": {
     "react": "^16.0.0",
