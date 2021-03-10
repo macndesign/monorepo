@@ -7,6 +7,6 @@ const Button = styled.button`
   cursor: pointer;
   font-size: 1rem;
   font-weight: 300;
-  padding: ${spacing.small} ${spacing.extraLarge};
+  padding: ${spacing.extraSmall} ${spacing.extraLarge};
 `;
 export default Button;
