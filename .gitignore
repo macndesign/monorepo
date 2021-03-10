@@ -1,5 +1,6 @@
 .log
 .DS_Store
 .jest-*
+.npmrc
 lib
 node_modules
