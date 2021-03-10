@@ -1,6 +1,6 @@
 {
   "name": "button",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -8,7 +8,7 @@
     "react": "latest",
     "react-dom": "latest",
     "styled-components": "latest",
-    "theme": "^1.0.0"
+    "theme": "^1.1.0"
   },
   "peerDependencies": {
     "react": "^16.0.0",
