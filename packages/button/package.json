@@ -1,11 +1,11 @@
 {
   "name": "@macndesign/monorepo-button",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
-    "@macndesign/monorepo-theme": "^1.1.1",
+    "@macndesign/monorepo-theme": "^1.1.2",
     "react": "latest",
     "react-dom": "latest",
     "styled-components": "latest"
