@@ -1,6 +1,6 @@
 {
   "name": "@macndesign/monorepo-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A UI Card",
   "keywords": [
     "card"
@@ -33,14 +33,13 @@
     "url": "https://github.com/macndesign/monorepo/issues"
   },
   "dependencies": {
+    "@material-ui/core": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "@material-ui/core": "latest"
+    "react-dom": "latest"
   },
   "peerDependencies": {
+    "@material-ui/core": "^4.11.3",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "@material-ui/core": "^4.11.3"
-  },
-  "devDependencies": {}
+    "react-dom": "^17.0.2"
+  }
 }
